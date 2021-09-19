@@ -1,0 +1,20 @@
+[30-Jul-2020 07:04:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home2/binnxjin/public_html/littlesudip.com/wp-includes/update.php:813
+Stack trace:
+#0 {main}
+  thrown in /home2/binnxjin/public_html/littlesudip.com/wp-includes/update.php on line 813
+[30-Jul-2020 19:14:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home2/binnxjin/public_html/littlesudip.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/binnxjin/public_html/littlesudip.com/wp-includes/feed-atom-comments.php on line 8
+[01-Aug-2020 10:20:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home2/binnxjin/public_html/littlesudip.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/binnxjin/public_html/littlesudip.com/wp-includes/feed-atom-comments.php on line 8
+[01-Aug-2020 10:20:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home2/binnxjin/public_html/littlesudip.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/binnxjin/public_html/littlesudip.com/wp-includes/feed-atom-comments.php on line 8
+[01-Aug-2020 10:20:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home2/binnxjin/public_html/littlesudip.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/binnxjin/public_html/littlesudip.com/wp-includes/feed-atom-comments.php on line 8
